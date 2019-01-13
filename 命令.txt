@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\CodeBlocks\MinGW\bin\c++.exe"  word.c
+创建一个in.txt    程序代码（记得把代码里面的也改了）
+
+
